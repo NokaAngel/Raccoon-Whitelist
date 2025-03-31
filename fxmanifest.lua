@@ -5,7 +5,7 @@ games { 'gta5' }
 name "Raccoon-Whitelist"
 description "A simple whitelist script that utilizes Badger's Discord API"
 author "NokaAngel"
-version "v0.1.1.2"
+version "v0.1.1.3"
 
 
 server_script "settings.lua"
