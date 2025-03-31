@@ -1,6 +1,6 @@
 # Raccoon Whitelisting
 <img src="https://profile-counter.glitch.me/Raccoon-Whitelist/count.svg" />
-Need support? Join the Discord, and make a ticket I'll be happy to help when available. https://discord.gg/8TKfHkvdrY
+Need support? Join the Discord, and make a ticket I'll be happy to help when available. https://discord.gg/RxHQjtg7c8
 
 ## What is Raccoon Whitelisting?
 Raccoon Whitelisting is a new whitelist script, created by TheRaccoon (PeEcEeChIP) for an easy-to-use Discord whitelist. This script uses [Badger's](https://github.com/JaredScar) [Discord API Script](https://github.com/JaredScar/Badger_Discord_API), refraining from having to make another Discord bot token, and grab role ID's, making this whitelist script easier to use for anybody.
